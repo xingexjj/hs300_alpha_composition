@@ -1,6 +1,8 @@
+(critical) need to create ./data/alpha_dataset/ on your own!
+
 dataset.py 				由原始因子和股票数据得到dataset
 model.py 				搭建模型
-loss.py 					自定义损失函数
+loss.py 				自定义损失函数
 run.py					训练和测试，可重新选取模型、损失函数、优化器
 main.py					可直接在终端运行的主函数，可在config中修改参数
 
