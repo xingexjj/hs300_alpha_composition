@@ -1,4 +1,4 @@
-(critical) need to create ./data/alpha_dataset/ on your own!
+(critical) need to create an empty folder ./data/alpha_dataset/ on your own!
 
 dataset.py 				由原始因子和股票数据得到dataset
 model.py 				搭建模型
